@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="simple.TestPossitive" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-12-30T00:55:58" hostname="LAPTOP-K5I9OT1F" time="0.063">
+  <properties/>
+  <testcase name="test1()" classname="simple.TestPossitive" time="0.009"/>
+  <testcase name="test2()" classname="simple.TestPossitive" time="0.005"/>
+  <testcase name="test3()" classname="simple.TestPossitive" time="0.003"/>
+  <testcase name="test4()" classname="simple.TestPossitive" time="0.003"/>
+  <testcase name="test5()" classname="simple.TestPossitive" time="0.003"/>
+  <testcase name="test6()" classname="simple.TestPossitive" time="0.004"/>
+  <testcase name="test7()" classname="simple.TestPossitive" time="0.004"/>
+  <testcase name="test8()" classname="simple.TestPossitive" time="0.004"/>
+  <testcase name="test9()" classname="simple.TestPossitive" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
