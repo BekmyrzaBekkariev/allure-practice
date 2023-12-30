@@ -40,3 +40,5 @@ task simple_test (type: Test ) {
         includeTags("simple1")
     }
 }
+
+// allure-test1
