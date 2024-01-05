@@ -18,6 +18,7 @@ allure {
     }
 }
 
+
 group = 'org.example'
 version = '1.0-SNAPSHOT'
 
@@ -25,12 +26,15 @@ repositories {
     mavenCentral()
 }
 
+
+
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter',
             'com.codeborne:selenide:7.0.4'
+    testImplementation 'com.codeborne:selenide:5.23.3'
 }
-
+ 
 test {
     useJUnitPlatform()
 }
