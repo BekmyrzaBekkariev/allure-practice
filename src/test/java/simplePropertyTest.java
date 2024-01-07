@@ -6,6 +6,7 @@ public class simplePropertyTest {
 		String browserName = System.getProperty("browser");
 		System.out.println(browserName);
 		System.out.println("2");
+		// что делать если
 		// Work 2 was good work
 	}
 }
